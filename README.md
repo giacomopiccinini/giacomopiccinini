@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi!
+
+I am Giacomo, a Machine Learning engineer specialising in Computer Vision. I am currently (remotely) working at Gemmo AI, a Dublin-based start-up providing bespoke Deep Learning solutions. 
+
+In my previous life I was a String Theorist at Swansea University (Wales), where I learnt how to survive daily rains and to efficiently drink beers. 
+
+In my spare time, I am trying to develop tools for leveraging Deep Learning to tackle what I believe are interesting problems in the artistic aspects of Vision and Audio. 
+
+If you are interested, get in touch with me on Twitter @G_Piccinini_!
 
 <!--
 **giacomopiccinini/giacomopiccinini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
