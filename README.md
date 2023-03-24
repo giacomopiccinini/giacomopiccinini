@@ -6,7 +6,7 @@ In my previous life I was a String Theorist at Swansea University (Wales), where
 
 In my spare time, I am trying to develop tools for leveraging Deep Learning to tackle what I believe are interesting problems in the artistic aspects of Vision and Audio. 
 
-If you are interested, get in touch with me on Twitter @G_Piccinini_!
+If you are interested, get in touch with me on Twitter [@G_Piccinini_](https://twitter.com/G_Piccinini_)!
 
 ## Projects
 
