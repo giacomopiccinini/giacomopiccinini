@@ -22,6 +22,8 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 ### Nano-Projects
 
+**snippet-api**: API deployed on Modal to create images of code snippets automatically. Similar (but not as fancy as) Carbon. 
+
 **chronopy**: pip-installable package to keep track of execution time in Python scripts. Currently downloadable, `pip install chronopy`. See also [this Medium post](https://medium.com/@giacomo.piccinini/chronopy-or-how-to-measure-elapsed-time-in-python-with-ease-84e1ec8a0120) about it. 
 
 **Spotilist**: Streamlit application accessible [here](https://spotilist.streamlit.app/). Use it to find curators of Spotify playlists that include emerging artists. Try and get in touch with them to see your band featured! 
