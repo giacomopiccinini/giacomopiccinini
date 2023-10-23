@@ -1,12 +1,12 @@
 ## Hi!
 
-I am Giacomo, a Machine Learning engineer specialising in Computer Vision. Currently, I am working (remotely) at [Gemmo AI](https://gemmo.ai/), a Dublin-based start-up that provides bespoke Deep Learning solutions. 
+I am Giacomo, a Machine Learning engineer specialising in Vision and Audio. Currently, I am working (remotely) at [Gemmo AI](https://gemmo.ai/), a Dublin-based start-up that provides bespoke Deep Learning solutions. 
 
 In my previous life I was a String Theorist at Swansea University (Wales), where I learned how to survive daily rains and to efficiently drink beers. 
 
 In my spare time, I am trying to develop tools for leveraging Deep Learning to tackle what I believe are interesting problems in the artistic aspects of Vision and Audio. 
 
-If you are interested, get in touch with me on Twitter [@G_Piccinini_](https://twitter.com/G_Piccinini_)!
+If you are interested, get in touch with me on X [@G_Piccinini_](https://twitter.com/G_Piccinini_)!
 
 ## Projects
 
@@ -22,7 +22,11 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 ### Nano-Projects
 
+**audio-graph**: API deployed on Modal to create and compare the frequency spectra of two audio files. Ideally useful for ensuring that, when mixing a song, your track is on par with industry standard. 
+
 **snippet-api**: API deployed on Modal to create images of code snippets automatically. Similar (but not as fancy as) Carbon. 
+
+**imagesum/audiosum/videosum**: Rust scripts for analysing metadata of images/audios/videos and provide a summary. Useful when dealing with large datasets. My first attempt at playing around with Rust.  
 
 **chronopy**: pip-installable package to keep track of execution time in Python scripts. Currently downloadable, `pip install chronopy`. See also [this Medium post](https://medium.com/@giacomo.piccinini/chronopy-or-how-to-measure-elapsed-time-in-python-with-ease-84e1ec8a0120) about it. 
 
