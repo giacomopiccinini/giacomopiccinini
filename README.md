@@ -14,7 +14,9 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 ### Milli-Projects
 
-**DrumsGPT**: Inspire by Andrej Karpathy's NanoGPT lecture, a GPT-like model for writing (read: completing) drum tracks in MIDI format. Currently private repo, as still in the making. 
+**rush**: A rewriting in Rust of some of bash's commands. Mostly a way to learn Rust!
+
+**DrumsGPT**: Inspired by Andrej Karpathy's NanoGPT lecture, a GPT-like model for writing (read: completing) drum tracks in MIDI format. Currently private repo, as still in the making. 
 
 ### Micro-Projects
 
