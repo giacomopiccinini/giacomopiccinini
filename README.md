@@ -20,6 +20,8 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 ### Micro-Projects
 
+**giacomo-website**: My first (and only) attempt at creating a personal website. Take a look at it [here](https://www.giacomopiccinini.xyz/) and feel free to scrape the code! Built with NextJS 14 and deployed on Vercel.
+
 **Annotate**: despite the questionable name, the aim is to build a set of simple yet effective tools to easily annotate immages locally, without resorting to online services which require your data to be made public (or pay yet another subscription). At the moment only supports YOLO-like bounding box annotations. Docs are in the making. 
 
 ### Nano-Projects
