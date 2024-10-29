@@ -12,9 +12,11 @@ If you are interested, get in touch with me on X [@G_Piccinini_](https://twitter
 
 Here is a list of the projects I am currently working on in my spare time. I have ranked them based on difficulty/size, and you can find the corresponding repos here on GitHub. If you like, do feel free to contribute!
 
-### Milli-Projects
+### Actual Projects
 
-**rush**: A rewriting in Rust of some of bash's commands. Mostly a way to learn Rust!
+**rush**: A Swiss-army knife for data inspection and manipulation, written in Rust.
+
+### Milli-Projects
 
 **DrumsGPT**: Inspired by Andrej Karpathy's NanoGPT lecture, a GPT-like model for writing (read: completing) drum tracks in MIDI format. Currently private repo, as still in the making. 
 
