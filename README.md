@@ -22,19 +22,17 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 ### Micro-Projects
 
-**giacomo-website**: My first (and only) attempt at creating a personal website. Take a look at it [here](https://www.giacomopiccinini.xyz/) and feel free to scrape the code! Built with NextJS 14 and deployed on Vercel.
+**metrify**: pip-installable package to add some metrics )informedness, markedness, $\phi$, etc.) to the standard scikit-learn library. 
 
-**Annotate**: despite the questionable name, the aim is to build a set of simple yet effective tools to easily annotate immages locally, without resorting to online services which require your data to be made public (or pay yet another subscription). At the moment only supports YOLO-like bounding box annotations. Docs are in the making. 
+**chronopy**: pip-installable package to keep track of execution time in Python scripts. Currently downloadable, `pip install chronopy`. See also [this Medium post](https://medium.com/@giacomo.piccinini/chronopy-or-how-to-measure-elapsed-time-in-python-with-ease-84e1ec8a0120) about it. 
 
 ### Nano-Projects
 
+**giacomo-website**: My first (and only) attempt at creating a personal website. Take a look at it [here](https://www.giacomopiccinini.xyz/) and feel free to scrape the code! Built with NextJS 14 and deployed on Vercel.
+
 **audio-graph**: API deployed on Modal to create and compare the frequency spectra of two audio files. Ideally useful for ensuring that, when mixing a song, your track is on par with industry standard. 
 
-**snippet-api**: API deployed on Modal to create images of code snippets automatically. Similar (but not as fancy as) Carbon. 
-
-**imagesum/audiosum/videosum**: Rust scripts for analysing metadata of images/audios/videos and provide a summary. Useful when dealing with large datasets. My first attempt at playing around with Rust.  
-
-**chronopy**: pip-installable package to keep track of execution time in Python scripts. Currently downloadable, `pip install chronopy`. See also [this Medium post](https://medium.com/@giacomo.piccinini/chronopy-or-how-to-measure-elapsed-time-in-python-with-ease-84e1ec8a0120) about it. 
+**snippet-api**: API deployed on Modal to create images of code snippets automatically. Similar (but not as fancy as) Carbon.  
 
 **Spotilist**: Streamlit application accessible [here](https://spotilist.streamlit.app/). Use it to find curators of Spotify playlists that include emerging artists. Try and get in touch with them to see your band featured! 
 
