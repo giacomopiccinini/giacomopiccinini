@@ -22,7 +22,7 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 ### Micro-Projects
 
-**metrify**: pip-installable package to add some metrics )informedness, markedness, $\phi$, etc.) to the standard scikit-learn library. 
+**metrify**: pip-installable package to add some metrics (informedness, markedness, $\phi$, etc.) to the standard scikit-learn library. 
 
 **chronopy**: pip-installable package to keep track of execution time in Python scripts. Currently downloadable, `pip install chronopy`. See also [this Medium post](https://medium.com/@giacomo.piccinini/chronopy-or-how-to-measure-elapsed-time-in-python-with-ease-84e1ec8a0120) about it. 
 
