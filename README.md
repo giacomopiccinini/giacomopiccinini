@@ -14,7 +14,7 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 ### Actual Projects
 
-**rush**: A Swiss-army knife for data inspection and manipulation, written in Rust.
+**rush**: A Swiss-army knife for media inspection and manipulation, written in Rust.
 
 ### Milli-Projects
 
