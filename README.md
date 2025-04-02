@@ -16,10 +16,6 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 **rush**: A Swiss-army knife for media inspection and manipulation, written in Rust.
 
-### Milli-Projects
-
-**DrumsGPT**: Inspired by Andrej Karpathy's NanoGPT lecture, a GPT-like model for writing (read: completing) drum tracks in MIDI format. Currently private repo, as still in the making. 
-
 ### Micro-Projects
 
 **metrify**: pip-installable package to add some metrics (informedness, markedness, $\phi$, etc.) to the standard scikit-learn library. 
@@ -27,8 +23,6 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 **chronopy**: pip-installable package to keep track of execution time in Python scripts. Currently downloadable, `pip install chronopy`. See also [this Medium post](https://medium.com/@giacomo.piccinini/chronopy-or-how-to-measure-elapsed-time-in-python-with-ease-84e1ec8a0120) about it. 
 
 ### Nano-Projects
-
-**giacomo-website**: My first (and only) attempt at creating a personal website. Take a look at it [here](https://www.giacomopiccinini.xyz/) and feel free to scrape the code! Built with NextJS 14 and deployed on Vercel.
 
 **audio-graph**: API deployed on Modal to create and compare the frequency spectra of two audio files. Ideally useful for ensuring that, when mixing a song, your track is on par with industry standard. 
 
