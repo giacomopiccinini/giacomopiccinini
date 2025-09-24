@@ -16,6 +16,8 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 **rush**: A Swiss-army knife for media inspection and manipulation, written in Rust.
 
+**judo**: A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite. 
+
 ### Micro-Projects
 
 **metrify**: pip-installable package to add some metrics (informedness, markedness, $\phi$, etc.) to the standard scikit-learn library. 
