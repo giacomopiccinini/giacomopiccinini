@@ -28,7 +28,7 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 **audio-graph**: API deployed on Modal to create and compare the frequency spectra of two audio files. Ideally useful for ensuring that, when mixing a song, your track is on par with industry standard. 
 
-**snippet-api**: API deployed on Modal to create images of code snippets automatically. Similar (but not as fancy as) Carbon.  
+**snippet-api**: API deployed on Modal to create images of code snippets automatically. Similar to (but not as fancy as) Carbon.  
 
 **Spotilist**: Streamlit application accessible [here](https://spotilist.streamlit.app/). Use it to find curators of Spotify playlists that include emerging artists. Try and get in touch with them to see your band featured! 
 
