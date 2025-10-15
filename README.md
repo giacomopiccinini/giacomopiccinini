@@ -18,6 +18,8 @@ Here is a list of the projects I am currently working on in my spare time. I hav
 
 **judo**: A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite. 
 
+**spectrs**: A spectrogram generation library in pure Rust, with librosa compatibility.
+
 ### Micro-Projects
 
 **metrify**: pip-installable package to add some metrics (informedness, markedness, $\phi$, etc.) to the standard scikit-learn library. 
